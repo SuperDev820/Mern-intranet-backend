@@ -1,4 +1,4 @@
-import passportJWT from 'passport-jwt';
+const passportJWT = require('passport-jwt');
 // import User model
 const User = require('../models/User')
 
